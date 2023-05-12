@@ -1,0 +1,38 @@
+/* Gradiente suave para a página 1 */
+#recipe1 {
+    background: linear-gradient(135deg, #FDEB71 0%,#F8D800 100%);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Gradiente suave para a página 2 */
+  #recipe2 {
+    background: linear-gradient(135deg, #A8FF78 0%,#78FFD6 100%);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Gradiente suave para a página 3 */
+  #recipe3 {
+    background: linear-gradient(135deg, #FFAD88 0%,#FFD3B5 100%);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Estilo para o título */
+  h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  
+  /* Estilo para os ingredientes */
+  ul {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para o modo de preparo */
+  ol {
+    margin-bottom: 50px;
+  }
+  
